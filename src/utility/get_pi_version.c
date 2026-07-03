@@ -234,6 +234,12 @@ static struct pi_version_struct pi_version[] = {
         .version = 4
     },
 
+    // Pi 4 Model B Rev 1.2
+    {
+        .revision_string = "b03112",
+        .version = 4
+    },
+
     // Pi 4 Model B Rev 1.5
     {
         .revision_string = "c03115",
